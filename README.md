@@ -1,1 +1,2 @@
-# Color-switch
+# Color-switch is a game in which you have a block of 4 colours and you have to click one of the 4 based on an instruction
+# The instruction will be a specific colour you are told to click. However, the instruction will be in a different font colour from the colour you are told to click, creating confusion. Your goal is to stay focused and click the colour in the instruction without letting the font colour trick you.
